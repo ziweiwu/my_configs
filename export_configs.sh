@@ -1,1 +1,0 @@
-cp .zshrc .vimrc .spacemacs ~
