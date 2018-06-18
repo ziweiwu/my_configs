@@ -127,5 +127,3 @@ alias emacs="emacs -nw"
 # cd alias
 alias my_project="cd ~/ziwei/dev/"
 
-# copy configs to my_config folder 
-alias copy_configs="mkdir -p ~/my_configs; cp ~/.zshrc ~/.spacemacs ~/.vimrc ~/my_configs"
